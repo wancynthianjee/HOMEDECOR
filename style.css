@@ -1,0 +1,63 @@
+
+.decor{
+    margin:2px 4px;
+    border-radius: 4px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+.potty{
+    
+    
+}
+nav ul{
+    list-style-type: none;
+    width: 98%;
+    text-align: right;
+    padding: 10px;
+}
+nav ul li{
+    display: inline-block;
+    margin: 2px 5px;
+    list-style: none;
+
+    
+}
+nav ul li a{
+    text-decoration: none;
+    
+    width: 40px;
+}
+.image{
+    margin-right: 6%;
+    margin-top: 4%;
+
+}
+.picture{
+    margin-top: 2%;
+    margin-right: 6%;
+}
+.place{
+    margin-left: 4px;
+}
+.holder{
+    display: flex;
+    justify-content: space-between;
+}
+.prof{
+    background-image: none;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 10%;
+}
+.built{
+    display: flex;
+    justify-content: space-between;
+
+}
+
