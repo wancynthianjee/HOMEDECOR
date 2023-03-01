@@ -1,7 +1,6 @@
 
 .decor{
-    margin:2px 4px;
-    border-radius: 4px;
+    
 }
 nav{
     display: flex;
@@ -11,7 +10,8 @@ nav{
 
 }
 .potty{
-    
+    font-size: 35px;
+    padding-left: 6px;
     
 }
 nav ul{
@@ -58,6 +58,10 @@ nav ul li a{
 .built{
     display: flex;
     justify-content: space-between;
+
+}
+.flee{
+    margin: 10%;
 
 }
 
